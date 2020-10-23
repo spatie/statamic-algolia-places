@@ -52,11 +52,11 @@ The fieldtype has all the [Algolia Places options](https://community.algolia.com
 
 ### Changelog
 
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+Please see [CHANGELOG](https://github.com/spatie/statamic-algolia-places/blob/master/CHANGELOG.md) for more information what has changed recently.
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/spatie/statamic-algolia-places/blob/master/CONTRIBUTING.md) for details.
 
 ## Security
 
