@@ -48,7 +48,7 @@ location:
 
 The fieldtype has all the [Algolia Places options](https://community.algolia.com/places/documentation.html#options)
 
-![Config](docs/config.png)
+![Config](https://raw.githubusercontent.com/spatie/statamic-algolia-places/master/docs/config.png)
 
 ### Changelog
 
