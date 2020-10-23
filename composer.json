@@ -1,0 +1,30 @@
+{
+    "name": "spatie/statamic-algolia-places",
+    "description": "An Algolia Places autocomplete dropdown fieldtype for the Statamic Control Panel",
+    "type": "statamic-addon",
+    "autoload": {
+        "psr-4": {
+            "Spatie\\StatamicAlgoliaPlaces\\": "src"
+        }
+    },
+    "require":  {
+        "php": "^7.3",
+        "statamic/cms": "^3.0",
+        "pixelfear/composer-dist-plugin": "^0.1"
+    },
+    "extra": {
+        "download-dist": {
+            "url": "https://github.com/spatie/statamic-algolia-places/releases/download/{$version}/dist.tar.gz",
+            "path": "dist"
+        },
+        "statamic": {
+            "name": "Statamic Algolia Places",
+            "description": "An Algolia Places autocomplete dropdown fieldtype for the Statamic Control Panel"
+        },
+        "laravel": {
+            "providers": [
+                "Spatie\\StatamicAlgoliaPlaces\\ServiceProvider"
+            ]
+        }
+    }
+}
