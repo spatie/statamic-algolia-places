@@ -4,7 +4,7 @@ namespace Spatie\StatamicAlgoliaPlaces\Fieldtypes;
 
 use Statamic\Fields\Fieldtype;
 
-class Location extends Fieldtype
+class Places extends Fieldtype
 {
     protected $icon = 'pin';
 
