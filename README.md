@@ -69,4 +69,4 @@ If you discover any security related issues, please email [freek@spatie.be](mail
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/spatie/statamic-algolia-places/blob/master/LICENSE.md) for more information.
