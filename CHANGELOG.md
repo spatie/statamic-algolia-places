@@ -2,6 +2,11 @@
 
 All notable changes to `statamic-algolia-places` will be documented in this file
 
+## 1.1.0 - 2021-01-29
+
+## What's new
+- Allow PHP 8
+
 ## 1.0.2 - 2020-11-03
 
 ## What's new
